@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71779282-26ac-4d12-a99b-450cac264ed6" name="Changes" comment="1">
-      <change beforePath="$PROJECT_DIR$/.idea/EPFL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EPFL.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="71779282-26ac-4d12-a99b-450cac264ed6" name="Changes" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +34,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="local" />
@@ -199,6 +201,7 @@
       <workItem from="1774426628990" duration="600000" />
       <workItem from="1775595341079" duration="78000" />
       <workItem from="1775595445466" duration="368000" />
+      <workItem from="1775596886125" duration="180000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
